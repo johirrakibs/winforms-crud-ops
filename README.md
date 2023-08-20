@@ -1,2 +1,2 @@
-# Students Information Record Booth
-A simple CRUD Windows form application
+# WinForms CRUD application
+A simple CRUD Windows form application. store data from students.
